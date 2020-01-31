@@ -1,3 +1,17 @@
+##Running
+
+Unless using a process management tool such as foreman, two terminal tabs are needed. 
+The first will run the react app on port 3000:
+
+### `npm start`
+
+The second will run electron:
+
+### `npm run electron`
+
+Note that a few modifications will need to be made for a production build, namely specifying the loadURL in the package.json  file
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

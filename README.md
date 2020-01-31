@@ -1,4 +1,4 @@
-##Running
+## Running
 
 Unless using a process management tool such as foreman, two terminal tabs are needed. 
 The first will run the react app on port 3000:
